@@ -5,3 +5,4 @@ remote_dependency: hello2 {
 
 constant: lalala { value: "hahaha!" }
 constant: another_const { value: "rararara" }
+constant: yet_another { value: "xyz123" }
