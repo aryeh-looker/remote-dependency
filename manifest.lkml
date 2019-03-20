@@ -1,6 +1,6 @@
 remote_dependency: hello2 {
   url: "git://github.com/aryeh-looker/remote-dependency-2/"
-  ref: "ccdbb174cada076326ab4548bcef50aff1e37b3d"
+  ref: "54b6e5681c7a3babb0a043ff4b6a662635873c56"
 }
 
 # constant: lalala { value: "hahaha!" }
